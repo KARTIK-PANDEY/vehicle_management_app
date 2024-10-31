@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892147136037",
+    "project_id": "vehicle-management-csvtu",
+    "storage_bucket": "vehicle-management-csvtu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892147136037:android:c629b7bd9d6066e68f71cc",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_SwHqbrysCE1BjhQ3wvpG2PjCToy36M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
