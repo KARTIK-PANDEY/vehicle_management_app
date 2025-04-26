@@ -4,7 +4,7 @@ A new Flutter project.
 
 Here is some preview of the App I Developed:-
 
-![Alt text](path/to/image.png)
+![APP UI](APP UI 1.png)
 
 
 
