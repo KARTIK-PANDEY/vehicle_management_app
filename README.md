@@ -7,13 +7,9 @@ Here is some preview of the App I Developed:-
 
 ### APP UI 1
 
-![APP UI 1](assets/images/APP%20UI%201.png)
-
-### APP UI 2
-
 ![APP UI 2](assets/images/APP%20UI%202.png)
 
-
+### APP UI 2
 ![APP UI](assets/images/APP%20UI%201.png)
 
 
