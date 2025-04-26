@@ -4,7 +4,7 @@ A new Flutter project.
 
 Here is some preview of the App I Developed:-
 
-![APP UI](APP UI 1.png)
+![APP UI 1](assets/images/APP UI 1.png)
 
 
 
